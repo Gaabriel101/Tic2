@@ -1,0 +1,7 @@
+iframe{
+    border-radius: 25px;
+}
+
+*{
+    scroll-behavior: smooth;
+}
